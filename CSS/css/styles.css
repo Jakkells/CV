@@ -1,0 +1,164 @@
+
+/*************************************TAG SELECTORS********************************/
+   
+h1{
+    color: #66FCF1;
+    font-family: monospace;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+  color: #45A29E;
+  font-family: monospace;
+  font-size: 40px;
+
+}
+
+body{
+    background-color: #0B0C10;
+}
+
+img{
+    width: 300px;
+    
+}
+
+th{
+  padding: 20px;
+}
+
+p{
+  color: #C5C6C7;
+  font-size: 30px;
+  font-family: monospace;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: #1F2833;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1F2833;
+  border-radius: 20px;
+}
+
+li {
+  text-align: center;
+  font-family: monospace;
+  font-size: 30px;
+  color: #C5C6C7;
+}
+
+li a {
+  display: block;
+  color: #C5C6C7;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #45A29E;
+}
+
+label{
+  color: #45A29E;
+  font-size: 40px;
+  font-family: monospace;
+}
+form{
+  margin-left: 10%;
+}
+input{
+  width: 200px;
+  padding: 12px 20px;
+  margin-left: 5%;
+}
+
+button{
+  padding: 12px 20px;
+}
+
+
+
+
+/*************************************CLASS SELECTORS********************************/
+.center1 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center2{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center3{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Logos{
+  width: 50px;
+}
+
+
+/*************************************ID SELECTORS********************************/
+
+  #Projects{
+    font-size: 50px;
+    font-family: monospace;
+  }
+
+  #Life{
+    font-size: 50px;
+    font-family: monospace;
+    background-color: #1F2833;
+  }
+
+  #ProjectsCell{
+    padding: 40px;
+    background-color: #1F2833;
+    border-radius: 20px;
+  }
+
+  #LifeCell{
+    background-color: #1F2833; 
+    border-radius: 20px;
+  }
+
+  #name{
+    font-size: 100px;
+    font-family: monospace;
+  }
+
+  #logoName{
+    background-color: #1F2833;
+    border-radius: 20px;
+  }
+
+  #AboutMe{
+    color: #45A29E;
+    margin-left: 10%;
+    font-family: monospace;
+    font-size: 40px;
+  }
+
+#Contact{
+  margin-left: 10%;
+}
+
+#nameBox{
+  margin-left: 88px;
+}
+
+#Message{
+  margin-left: 25px;
+}
+
+ 
